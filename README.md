@@ -4,7 +4,7 @@ A simple, lightweight local database for Node.js that stores data in a JSON file
 
 ## Installation
 
-To install `NativeDB`, run the following command:
+To install [NativeDB](https://www.npmjs.com/package/native-db), run the following command:
 
 ```
 npm install native-db
