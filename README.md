@@ -119,4 +119,4 @@ None.
 
 ## License
 
-`NativeDB` is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+`NativeDB` is released under the MIT License. See the [LICENSE](https://github.com/Marius-Heinrich/NativeDB/LICENSE.md) file for more details.
